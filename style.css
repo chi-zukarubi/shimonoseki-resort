@@ -170,7 +170,7 @@ a { text-decoration: none; color: inherit; }
 .fv-bg {
   position: absolute;
   inset: 0;
-  background: url('images/sea.jpg') center/cover no-repeat;
+  background: url('/shimonoseki-resort/images/sea.jpg') center/cover no-repeat;
   transform: scale(1.05);
   animation: kenburns 18s ease-in-out infinite alternate;
 }
