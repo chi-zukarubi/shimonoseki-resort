@@ -212,7 +212,7 @@ a { text-decoration: none; color: inherit; }
 
 .fv-heading {
   font-family: var(--font-serif);
-  font-size: clamp(1.5rem, 4.5vw, 3.2rem);
+  font-size: clamp(1.5rem, 5vw, 2.4rem);
   font-weight: 300;
   line-height: 1.5;
   letter-spacing: 0.06em;
@@ -1344,7 +1344,7 @@ a { text-decoration: none; color: inherit; }
   
   .nav-toggle { display: flex; z-index: 1001; }
 
-  .fv-heading { font-size: 1.8rem; }
+  .fv-heading { font-size: 1.5rem; }
 
   .features-grid {
     grid-template-columns: 1fr;
